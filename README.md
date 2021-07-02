@@ -23,7 +23,7 @@ As illustrated each robot arm consists of three parts:
 Each servo has a range of motion of 180 degrees, thus each one of them should be implemented at a certain degree according to its function and the mechanical design of the robot. The shoulder servo must be positioned at 90 degrees in the middle to give the arm the ability to rotate 90 degrees CW(0) and 90 degrees CCW(180). Similarly, the forearm servo needs to be at 0 degrees when the forearm is in a straight line with the shoulder. Finally, the hand's servo also needs to be at zero degrees when it is straightly aligned with the forearm and the shoulder. A very crucial point, that is considered in the code, is that the maximum range of movement for the forearm and the hand joints is 90 degrees.
 
 #### Ordinary Position 
-To give the robot an ordinary expression, before it performs any movement the shoulder will be at 90 degrees, the forearm and the hand will be at 45 degrees.
+To give the robot an ordinary expression, before it performs any movement the shoulders will be at 90 degrees, the forearms and the hands will be at 45 degrees.
 
 ### Special Movements
 * Come Here: the robot hands move from "the ordinary" position to 90 degrees angle and back to get the customers' attention. 
