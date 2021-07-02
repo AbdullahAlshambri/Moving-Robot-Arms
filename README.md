@@ -6,7 +6,7 @@ Here is an Arduino code to move a robot's arms. The robot is designed by **Smart
 * an Arduino code of the arms' initial position, in addition to three movements.
 * a Picture of the robot.
 
-## Movements
+## Movement
 ![Reception Robot](https://github.com/AbdullahAlshambri/MovingRobotHands/blob/main/Pictures/Reception%20Robot.jpeg?raw=true)
 
 As illustrated each robot arm consists of three parts:
