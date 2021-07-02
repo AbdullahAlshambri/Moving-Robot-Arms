@@ -1,4 +1,4 @@
-# Moving_Robot's_Hands
+# Moving a Robot's Arms
 
 Here is an Arduino code to move a robot's arms. The robot is designed by **Smart Methods Est**, under the name the Reception Robot. Three pairs of servo motors are used to move the arms.
 
